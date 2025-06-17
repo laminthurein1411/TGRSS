@@ -1,9 +1,19 @@
 rss_groups:
-  group_1: &Ri
-    rss_1: https://www.reddit.com/r/broslikeus.rss
-    rss_2: https://www.reddit.com/r/BigAndMuscular.rss
-  
-    rss_3: https://www.reddit.com/r/VlinesAbsAndDick.rss
-chat_ids: 
-8028896761:
-    <<: *Ri
+  技术: &tech
+    美团技术团队: https://www.reddit.com/r/broslikeus.rss
+  博客: &blog
+    月光博客:
+      url: https://www.reddit.com/r/BigAndMuscular.rss
+      fold: true
+    阮一峰的网络日志: https://www.ruanyifeng.com/blog/atom.xml
+  新闻: &new
+    FT中文网: https://www.reddit.com/r/VlinesAbsAndDick.rss
+  综合: &other
+    少数派: https://rss.nytimes.com/services/xml/rss/nyt/Television.xml
+
+chat_ids:
+  383054885:
+    <<: *tech
+    <<: *blog
+    <<: *new
+    <<: *other
