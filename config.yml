@@ -1,15 +1,15 @@
 rss_groups:
   技术: &tech
-    美团技术团队: https://www.reddit.com/r/broslikeus.rss
+    美团技术团队: http://feeds.skynews.com/feeds/rss/home.xml
   博客: &blog
     月光博客:
-      url: https://www.reddit.com/r/BigAndMuscular.rss
+      url: http://feeds.skynews.com/feeds/rss/technology.xml
       fold: true
-    阮一峰的网络日志: https://www.ruanyifeng.com/blog/atom.xml
+    阮一峰的网络日志: https://www.theguardian.com/uk/tv-and-radio/rss
   新闻: &new
-    FT中文网: https://www.reddit.com/r/VlinesAbsAndDick.rss
+    FT中文网: http://www.ftchinese.com/rss/news
   综合: &other
-    少数派: https://rss.nytimes.com/services/xml/rss/nyt/Television.xml
+    少数派: https://sspai.com/feed
 
 chat_ids:
   383054885:
