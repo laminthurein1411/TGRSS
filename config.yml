@@ -1,6 +1,8 @@
 rss_groups:
   NPR: &tech
     美团技术团队: https://feeds.npr.org/1019/rss.xml
+    news : https://28-mag.com/feed
+    pp : https://feeds.bbci.co.uk/news/rss.xml
   
 chat_ids:
   8028896761:
