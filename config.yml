@@ -4,14 +4,44 @@ rss_groups:
     Tech : https://www.404media.co/rss
     Android Authority : https://www.androidauthority.com/feed
     Artificial Intelligence (AI) : https://www.reddit.com/r/artificial/.rss
-    BBC tech : https://feeds.bbci.co.uk/news/technology/rss.xml
-    CNN Tech : http://rss.cnn.com/rss/edition_technology.rss
+    BBC_tech : https://feeds.bbci.co.uk/news/technology/rss.xml
+    CNN_Tech : http://rss.cnn.com/rss/edition_technology.rss
     Engadget: https://www.engadget.com/rss.xml
     freeCodeCamp.org: https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ
-    Gadgets 360: https://feeds.feedburner.com/gadgets360-latest
-    FOSS News: https://news.itsfoss.com/rss
-    NY times technology : https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
-    
+    Gadgets_360: https://feeds.feedburner.com/gadgets360-latest
+    FOSS_News: https://news.itsfoss.com/rss
+    NY_times_technology : https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+  News : &news
+    NPR : https://feeds.npr.org/1019/rss.xml
+    BBC : https://feeds.bbci.co.uk/news/rss.xml
+    ABC news : http://feeds.abcnews.com/abcnews/topstories
+    Aljazeera : https://www.aljazeera.com/xml/rss/all.xml
+    BBC Middle East News : https://feeds.bbci.co.uk/news/world/middle_east/rss.xml
+    CBC : https://www.cbc.ca/webfeed/rss/rss-canada
+    Daily Mail : https://www.dailymail.co.uk/news/index.rss
+    FRONTLINE PBS: https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ
+    CBSNews.com: https://www.cbsnews.com/latest/rss/main
+    Politico: https://www.politico.eu/feed
+  News: &conspiracy
+    conspiracy: https://www.reddit.com/r/conspiracy/.rss
+  News: &entertainment 
+    Drew Gooden: https://www.youtube.com/feeds/videos.xml?channel_id=UCTSRIY3GLFYIpkR2QwyeklA
+    hbomberguy: https://www.youtube.com/feeds/videos.xml?channel_id=UClt01z1wHHT7c5lKcU8pxRQ
+    NPR Music : https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A
+  Business_inside: &business 
+     Business inside : https://businessinsider.com.pl/.feed
+     InsiderBusiness: https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA
+  Tech: &hack
+     Hack Tutorial: https://www.reddit.com/r/Hacking_Tutorials/.rss
+     Hacker News: https://hnrss.org/frontpage
+     Hackers: https://www.reddit.com/r/hackers/.rss
+     hacking security in practice: https://www.reddit.com/r/hacking/.rss
+     
 chat_ids:
   8028896761:
     <<: *tech
+    <<: *news
+    <<: *hack
+    <<: *business
+    <<: *entertainment
+    <<: *conspiracy
