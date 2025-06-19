@@ -1,19 +1,18 @@
 rss_groups:
-  Tech : &tech
+  Tech: &tech
     9to5 : https://9to5linux.com/category/news/feed
     Tech : https://www.404media.co/rss
     Android Authority : https://www.androidauthority.com/feed
     Artificial Intelligence (AI) : https://www.reddit.com/r/artificial/.rss
     BBC tech : https://feeds.bbci.co.uk/news/technology/rss.xml
     CNN Tech : http://rss.cnn.com/rss/edition_technology.rss
-    Deep Web: https://www.reddit.com/r/deepweb/.rss
     Engadget: https://www.engadget.com/rss.xml
     freeCodeCamp.org: https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ
     Gadgets 360: https://feeds.feedburner.com/gadgets360-latest
     FOSS News: https://news.itsfoss.com/rss
     NY times technology : https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
     
-News : &news
+  News: &news
     NPR : https://feeds.npr.org/1019/rss.xml
     BBC : https://feeds.bbci.co.uk/news/rss.xml
      ABC news : http://feeds.abcnews.com/abcnews/topstories
@@ -25,21 +24,20 @@ News : &news
     CBSNews.com: https://www.cbsnews.com/latest/rss/main
     Politico: https://www.politico.eu/feed
     
-News : &conspiracy
-     conspiracy: https://www.reddit.com/r/conspiracy/.rss
+  News: &conspiracy
+     conspiracy: https://9to5linux.com/category/news/feed
 
-News : &entertainment 
+  News: &entertainment 
      Drew Gooden: https://www.youtube.com/feeds/videos.xml?channel_id=UCTSRIY3GLFYIpkR2QwyeklA
      hbomberguy: https://www.youtube.com/feeds/videos.xml?channel_id=UClt01z1wHHT7c5lKcU8pxRQ
-    NPR Music : https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A
+     NPR Music: https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A
     
-Business inside : &business 
+  Business inside: &business 
      Business inside : https://businessinsider.com.pl/.feed
      InsiderBusiness: https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA
-     
-     
-Tech : &hack
-     Hack Tutorial: https://www.reddit.com/r/Hacking_Tutorials/.rss
+         
+  Tech: &hack
+     Hack Tutorial: https://feeds.bbci.co.uk/news/technology/rss.xml
      Hacker News: https://hnrss.org/frontpage
      Hackers: https://www.reddit.com/r/hackers/.rss
      hacking security in practice: https://www.reddit.com/r/hacking/.rss
