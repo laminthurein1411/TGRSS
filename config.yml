@@ -11,25 +11,25 @@ rss_groups:
     Gadgets_360: https://feeds.feedburner.com/gadgets360-latest
     FOSS_News: https://news.itsfoss.com/rss
     NY_times_technology : https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
-  News: &news
+  News : &news
     NPR : https://feeds.npr.org/1019/rss.xml
     BBC : https://feeds.bbci.co.uk/news/rss.xml
-    ABC_news : http://feeds.abcnews.com/abcnews/topstories
+    ABC news : http://feeds.abcnews.com/abcnews/topstories
     Aljazeera : https://www.aljazeera.com/xml/rss/all.xml
-    BBC_Middle_East_News : https://feeds.bbci.co.uk/news/world/middle_east/rss.xml
+    BBC Middle East News : https://feeds.bbci.co.uk/news/world/middle_east/rss.xml
     CBC : https://www.cbc.ca/webfeed/rss/rss-canada
-    Daily_Mail : https://www.dailymail.co.uk/news/index.rss
-    FRONTLINE_PBS: https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ
+    Daily Mail : https://www.dailymail.co.uk/news/index.rss
+    FRONTLINE PBS: https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ
     CBSNews.com: https://www.cbsnews.com/latest/rss/main
     Politico: https://www.politico.eu/feed
   News: &conspiracy
     conspiracy: https://www.reddit.com/r/conspiracy/.rss
-  Ent: &entertainment 
-    Drew_Gooden: https://www.youtube.com/feeds/videos.xml?channel_id=UCTSRIY3GLFYIpkR2QwyeklA
+  News: &entertainment 
+    Drew Gooden: https://www.youtube.com/feeds/videos.xml?channel_id=UCTSRIY3GLFYIpkR2QwyeklA
     hbomberguy: https://www.youtube.com/feeds/videos.xml?channel_id=UClt01z1wHHT7c5lKcU8pxRQ
-    NPR_Music: https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A
+    NPR Music : https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A
   Business_inside: &business 
-     Business inside: https://businessinsider.com.pl/.feed
+     Business inside : https://businessinsider.com.pl/.feed
      InsiderBusiness: https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA
   Tech: &hack
      Hack Tutorial: https://www.reddit.com/r/Hacking_Tutorials/.rss
