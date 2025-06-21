@@ -11,7 +11,8 @@ rss_groups:
     Gadgets_360: https://feeds.feedburner.com/gadgets360-latest
     FOSS_News: https://news.itsfoss.com/rss
     NY_times_technology : https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
-  News : &news
+    webapp: https://webapps.stackexchange.com/feeds
+  News: &news
     NPR : https://feeds.npr.org/1019/rss.xml
     BBC : https://feeds.bbci.co.uk/news/rss.xml
     ABC news : http://feeds.abcnews.com/abcnews/topstories
