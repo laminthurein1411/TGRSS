@@ -23,9 +23,9 @@ rss_groups:
     FRONTLINE PBS: https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ
     CBSNews.com: https://www.cbsnews.com/latest/rss/main
     Politico: https://www.politico.eu/feed
-  News: &conspiracy
+  Conspiracy: &conspiracy
     conspiracy: https://www.reddit.com/r/conspiracy/.rss
-  News: &entertainment 
+  Ent: &entertainment 
     Drew Gooden: https://www.youtube.com/feeds/videos.xml?channel_id=UCTSRIY3GLFYIpkR2QwyeklA
     hbomberguy: https://www.youtube.com/feeds/videos.xml?channel_id=UClt01z1wHHT7c5lKcU8pxRQ
     NPR Music : https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A
@@ -37,7 +37,9 @@ rss_groups:
      Hacker News: https://hnrss.org/frontpage
      Hackers: https://www.reddit.com/r/hackers/.rss
      hacking security in practice: https://www.reddit.com/r/hacking/.rss
-     
+
+  RT: &Reddit
+     Lady: https://www.old.reddit.com/r/ladybonersgw.rss
 chat_ids:
   8028896761:
     <<: *tech
@@ -46,3 +48,4 @@ chat_ids:
     <<: *business
     <<: *entertainment
     <<: *conspiracy
+    <<: *Reddit 
