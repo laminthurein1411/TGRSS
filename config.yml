@@ -38,8 +38,8 @@ rss_groups:
      Hackers: https://www.reddit.com/r/hackers/.rss
      hacking security in practice: https://www.reddit.com/r/hacking/.rss
 
-  RT: &Reddit
-     Lady: https://www.old.reddit.com/r/ladybonersgw.rss
+  RT: &reddit
+     Lady: https://old.reddit.com/r/ladybonersgw.rss
 chat_ids:
   8028896761:
     <<: *tech
@@ -48,4 +48,4 @@ chat_ids:
     <<: *business
     <<: *entertainment
     <<: *conspiracy
-    <<: *Reddit 
+    <<: *reddit 
