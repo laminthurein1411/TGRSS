@@ -32,11 +32,12 @@ rss_groups:
   Business_inside: &business 
      Business inside : https://businessinsider.com.pl/.feed
      InsiderBusiness: https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA
-  Tech: &hack
+  Hack: &hack
      Hack Tutorial: https://www.reddit.com/r/Hacking_Tutorials/.rss
      Hacker News: https://hnrss.org/frontpage
      Hackers: https://www.reddit.com/r/hackers/.rss
      hacking security in practice: https://www.reddit.com/r/hacking/.rss
+     re: https://raw.githubusercontent.com/laminthurein1411/reddit-rss-proxy/refs/heads/main/feeds/BigAndMuscular.xml
 
   RT: &reddit
      Big: https://raw.githubusercontent.com/laminthurein1411/reddit-rss-proxy/refs/heads/main/feeds/BigAndMuscular.xml
