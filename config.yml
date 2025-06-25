@@ -39,7 +39,7 @@ rss_groups:
      hacking security in practice: https://www.reddit.com/r/hacking/.rss
 
   RT: &reddit
-     Lady: https://old.reddit.com/r/ladybonersgw.rss
+     Big: https://raw.githubusercontent.com/laminthurein1411/reddit-rss-proxy/refs/heads/main/feeds/BigAndMuscular.xml
 chat_ids:
   8028896761:
     <<: *tech
