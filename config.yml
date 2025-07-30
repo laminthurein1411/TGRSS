@@ -39,8 +39,6 @@ rss_groups:
      hacking security in practice: https://www.reddit.com/r/hacking/.rss
      re: https://raw.githubusercontent.com/laminthurein1411/reddit-rss-proxy/refs/heads/main/feeds/BigAndMuscular.xml
 
-  large: &lpsg
-     LPSG: https://www.lpsg.com/forums/-/index.rss
   RT: &reddit
      Big: https://raw.githubusercontent.com/laminthurein1411/reddit-rss-proxy/refs/heads/main/feeds/BigAndMuscular.xml
 chat_ids:
@@ -52,4 +50,3 @@ chat_ids:
     <<: *entertainment
     <<: *conspiracy
     <<: *reddit 
-    <<: *lpsg
