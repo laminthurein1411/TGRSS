@@ -25,6 +25,7 @@ rss_groups:
     FRONTLINE PBS: https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ
     CBSNews.com: https://www.cbsnews.com/latest/rss/main
     Politico: https://www.politico.eu/feed
+    foreign_affairs : https://www.foreignaffairs.com/rss.xml
   Conspiracy: &conspiracy
     conspiracy: https://www.reddit.com/r/conspiracy/.rss
   Ent: &entertainment 
