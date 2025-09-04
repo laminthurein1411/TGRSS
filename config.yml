@@ -12,6 +12,8 @@ rss_groups:
     FOSS_News: https://news.itsfoss.com/rss
     NY_times_technology : https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
     webapp: https://webapps.stackexchange.com/feeds
+    github: https://raw.githubusercontent.com/mhadidg/gh-trends/refs/heads/main/feed/rss.xml
+    
   News: &news
     NPR : https://feeds.npr.org/1019/rss.xml
     BBC : https://feeds.bbci.co.uk/news/rss.xml
