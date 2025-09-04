@@ -30,7 +30,7 @@ rss_groups:
   Ent: &entertainment 
     Drew Gooden: https://www.youtube.com/feeds/videos.xml?channel_id=UCTSRIY3GLFYIpkR2QwyeklA
     hbomberguy: https://www.youtube.com/feeds/videos.xml?channel_id=UClt01z1wHHT7c5lKcU8pxRQ
-    NPR Music : https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A
+    NPR_Music : https://www.npr.org/rss/rss.php?id=1039
     cover_me_song : https://feeds.feedburner.com/covermesongs
     manuscripts: https://eleanorkonik.substack.com/feed?ref=eleanorkonik.com
     
