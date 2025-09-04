@@ -47,6 +47,8 @@ rss_groups:
 
   RT: &reddit
      Big: https://raw.githubusercontent.com/laminthurein1411/reddit-rss-proxy/refs/heads/main/feeds/BigAndMuscular.xml
+
+  
 chat_ids:
   8028896761:
     <<: *tech
@@ -56,3 +58,4 @@ chat_ids:
     <<: *entertainment
     <<: *conspiracy
     <<: *reddit 
+    
