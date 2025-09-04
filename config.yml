@@ -31,6 +31,9 @@ rss_groups:
     Drew Gooden: https://www.youtube.com/feeds/videos.xml?channel_id=UCTSRIY3GLFYIpkR2QwyeklA
     hbomberguy: https://www.youtube.com/feeds/videos.xml?channel_id=UClt01z1wHHT7c5lKcU8pxRQ
     NPR Music : https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A
+    cover_me_song : https://feeds.feedburner.com/covermesongs
+    manuscripts: https://eleanorkonik.substack.com/feed?ref=eleanorkonik.com
+    
   Business_inside: &business 
      Business inside : https://businessinsider.com.pl/.feed
      InsiderBusiness: https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA
