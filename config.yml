@@ -37,6 +37,10 @@ rss_groups:
     Hollywood_reporter_tv_review : https://www.hollywoodreporter.com/c/tv/tv-reviews/feed/
     Deadline_TV_Renew : https://deadline.com/category/cancellations-renewals/feed/
     Hollywood_reporter_TV: https://www.hollywoodreporter.com/c/tv/feed/
+    Pop_Crave: https://rss.xcancel.com/PopCrave/rss
+    Pop_Base : https://rss.xcancel.com/PopBase/rss
+    Film_Updates: https://rss.xcancel.com/FilmUpdates/rss
+    
   Business_inside: &business 
      Business inside : https://businessinsider.com.pl/.feed
      InsiderBusiness: https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA
