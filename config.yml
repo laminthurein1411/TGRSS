@@ -52,7 +52,7 @@ rss_groups:
      re: https://raw.githubusercontent.com/laminthurein1411/reddit-rss-proxy/refs/heads/main/feeds/BigAndMuscular.xml
 
   RT: &reddit
-     Big: https://raw.githubusercontent.com/laminthurein1411/reddit-rss-proxy/refs/heads/main/feeds/BigAndMuscular.xml
+     Big: https://www.lpsg.com/forums/-/index.rss
 
   
 chat_ids:
