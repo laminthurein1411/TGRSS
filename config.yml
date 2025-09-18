@@ -51,8 +51,10 @@ rss_groups:
      hacking security in practice: https://www.reddit.com/r/hacking/.rss
      re: https://raw.githubusercontent.com/laminthurein1411/reddit-rss-proxy/refs/heads/main/feeds/BigAndMuscular.xml
 
-  RT: &reddit
+  lp: &reddit
      Big: https://www.lpsg.com/forums/-/index.rss
+     web : https://www.lpsg.com/forums/gay-adult-websites.56/.rss
+     forum: https://www.lpsg.com/forums/.rss
 
   
 chat_ids:
