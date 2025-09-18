@@ -36,7 +36,7 @@ rss_groups:
     manuscripts: https://eleanorkonik.substack.com/feed?ref=eleanorkonik.com
     Hollywood_reporter_tv_review : https://www.hollywoodreporter.com/c/tv/tv-reviews/feed/
     Deadline_TV_Renew : https://deadline.com/category/cancellations-renewals/feed/
-    
+    Hollywood_reporter_TV: https://www.hollywoodreporter.com/c/tv/feed/
   Business_inside: &business 
      Business inside : https://businessinsider.com.pl/.feed
      InsiderBusiness: https://www.youtube.com/feeds/videos.xml?channel_id=UCcyq283he07B7_KUX07mmtA
